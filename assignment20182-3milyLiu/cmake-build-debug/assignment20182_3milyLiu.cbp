@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment20182_3milyLiu"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment20182_3milyLiu">
+				<Option output="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug/assignment20182_3milyLiu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/."/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 assignment20182_3milyLiu"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment20182_3milyLiu/fast">
+				<Option output="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug/assignment20182_3milyLiu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/."/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 assignment20182_3milyLiu/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\emily\Documents\GitHub\assignment20182-3milyLiu\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/Item.h">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/MapOfItems.h">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/MapOfItemsTest.cpp">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/Stack.h">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/StringConstruction.h">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/TestStack.cpp">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/TestStringCons.cpp">
+			<Option target="assignment20182_3milyLiu"/>
+		</Unit>
+		<Unit filename="C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

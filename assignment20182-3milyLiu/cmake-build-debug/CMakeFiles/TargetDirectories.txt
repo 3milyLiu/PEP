@@ -1,0 +1,3 @@
+C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug/CMakeFiles/assignment20182_3milyLiu.dir
+C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emily/Documents/GitHub/assignment20182-3milyLiu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
